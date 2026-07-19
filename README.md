@@ -1,3 +1,5 @@
+<img width="598" height="905" alt="Screenshot 2026-07-19 230647" src="https://github.com/user-attachments/assets/e5971100-3cc3-410d-a0c7-f9a96946bad0" />
+<img width="1877" height="925" alt="Screenshot 2026-07-19 230600" src="https://github.com/user-attachments/assets/76a31ee1-9a25-4262-be66-f78cf24e3b3c" />
 # 💼 Personal Portfolio Website
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
