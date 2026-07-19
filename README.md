@@ -163,7 +163,8 @@ Open **index.html** in your browser.
 > Add a screenshot here
 
 ```
-![Uploading image.png…]()
+<img width="598" height="905" alt="image" src="https://github.com/user-attachments/assets/75238b40-5385-4921-a7b3-3d16d23164a5" />
+
 
 ```
 
