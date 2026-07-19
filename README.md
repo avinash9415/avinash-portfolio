@@ -152,13 +152,13 @@ Open **index.html** in your browser.
 
 ## Desktop View
 
-> Add a screenshot here
+
 <img width="1877" height="925" alt="Screenshot 2026-07-19 230600" src="https://github.com/user-attachments/assets/76a31ee1-9a25-4262-be66-f78cf24e3b3c" />
 
 
 ## Mobile View
 
-> Add a screenshot here
+
 
 
 <img width="598" height="905" alt="image" src="https://github.com/user-attachments/assets/75238b40-5385-4921-a7b3-3d16d23164a5" />
