@@ -1,5 +1,4 @@
-<img width="598" height="905" alt="Screenshot 2026-07-19 230647" src="https://github.com/user-attachments/assets/e5971100-3cc3-410d-a0c7-f9a96946bad0" />
-<img width="1877" height="925" alt="Screenshot 2026-07-19 230600" src="https://github.com/user-attachments/assets/76a31ee1-9a25-4262-be66-f78cf24e3b3c" />
+
 # 💼 Personal Portfolio Website
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -154,23 +153,20 @@ Open **index.html** in your browser.
 ## Desktop View
 
 > Add a screenshot here
+<img width="1877" height="925" alt="Screenshot 2026-07-19 230600" src="https://github.com/user-attachments/assets/76a31ee1-9a25-4262-be66-f78cf24e3b3c" />
 
-```
-<img width="1877" height="925" alt="image" src="https://github.com/user-attachments/assets/1c357bb4-8bb0-428f-a54c-7eaa9b850269" />
-
-```
 
 ## Mobile View
 
 > Add a screenshot here
 
-```
+
 <img width="598" height="905" alt="image" src="https://github.com/user-attachments/assets/75238b40-5385-4921-a7b3-3d16d23164a5" />
 
 
-```
 
----
+
+
 
 # 🔮 Future Improvements
 
