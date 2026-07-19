@@ -1,4 +1,4 @@
-// Sticky Navbar
+
 
 const navbar=document.querySelector(".navbar");
 
@@ -18,7 +18,6 @@ navbar.classList.remove("sticky");
 
 
 
-// Typing Effect
 
 const typing=document.querySelector(".hero-role span");
 
@@ -81,7 +80,7 @@ type();
 
 
 
-// Premium Loader
+
 
 const loader=document.querySelector(".loader");
 const number=document.querySelector(".loader-number");
